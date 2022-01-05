@@ -11,8 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-<h1>MAUAZO-Estoy-Probando<h1>
+# MAUAZO Esoty probando
 ## Header 2
 ### Header 3
 
